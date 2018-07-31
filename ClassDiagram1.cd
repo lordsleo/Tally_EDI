@@ -1,0 +1,2740 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TALLY.DBControl" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhASEAAAAgCAAJgAyAAAAAAAAAAABSAFAAMAAAAAAEA=</HashCode>
+      <FileName>DBControl.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.File_bak" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQggQBLBMCAgECqggQyXGQraBy1IvGQgQpjjwAwCBG0=</HashCode>
+      <FileName>File_bak.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FillImageCell" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAAIACgAAAAAAQAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>FillImageCell.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FillImageCell_CKStar" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>FillImageCell_CKStar.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FillImageCell_Falcon" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAgIAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>FillImageCell_Falcon.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Form1" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAhABpBMCAgEKowgQSBGQzaBQAIPEQhC5yiAAgCBC0=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Form2" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAJpBMCAgEKowgQSBGQzaBQAIPEQhC5yiAAgCBC0=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Form3" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABABpRMCAgEKowgQSBGQzaBQAIPEQhC5yiAAgCBC0=</HashCode>
+      <FileName>Form3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_bay_compl_print" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jgOSyGCFNiKRZCKt0KuCiLVCDUCw6oC2sEs0oHQgoRg=</HashCode>
+      <FileName>Frm_bay_compl_print.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_bay_compl_print_lyg" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jgOSyCCFNiKRZCKt0KuCiLVCDUCw6oC2sEs0oHQgoRg=</HashCode>
+      <FileName>Frm_bay_compl_print_lyg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_bay_map" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jaeDwBLBNCCxFTophcqf+Q3ahy0IbkSgtvnzsEwCxS0=</HashCode>
+      <FileName>Frm_bay_map.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_bay_print" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>igOSgACBFiIQYCKhAKCAgARCAWCAggASsAsEoFQggRg=</HashCode>
+      <FileName>Frm_bay_print.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_bay_workabout" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hgOSySCFNiqRZCIt0CuCiLVCTUDz6oC2uEs0oHSkoRg=</HashCode>
+      <FileName>Frm_bay_workabout.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgAALAACAgAAgggACHGQCaByUAlEAAAhiTQAgCACQ=</HashCode>
+      <FileName>Frm_Bonus.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus_Add" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCACEKAAAIAAAACAIEACAAIAEBAAAABCAQIIAIA=</HashCode>
+      <FileName>Frm_Bonus_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus_New" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgAALABCAgAAgggACHGwCaByQAlEAAMhiDQAgCACQ=</HashCode>
+      <FileName>Frm_Bonus_New.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus_NEW_Add" Collapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAggCBDECAAAAAAAACAIAAKIAIAEBAAAABCAAIIAAA=</HashCode>
+      <FileName>Frm_Bonus_New_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus_New_Tax" Collapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAggCBCECAAAAAAAACAIAAKIAIAEBAAAIBCAAIIAAA=</HashCode>
+      <FileName>Frm_Bonus_New_Tax.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_Bonus_Print" Collapsed="true">
+    <Position X="31.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAwCDCkCACAAAAABCCIEACAAKAMBAIAIBCAQAMhAA=</HashCode>
+      <FileName>Frm_Bonus_Print.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_edi_stat_month" Collapsed="true">
+    <Position X="33.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAQAAEDQIQAAAAACAEAgCAAAARAAAAAACwAgAAAA=</HashCode>
+      <FileName>Frm_con_edi_stat_month.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_facemap" Collapsed="true">
+    <Position X="35" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iwOSgJDBlCIQQGJlIpDFIARCEsQwMga4sgkApHSgkQg=</HashCode>
+      <FileName>Frm_con_facemap.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_facemap_compl" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iwOSgJDBtSIQYHJlorDFICVCFsQwMha4sgkwpFSgkQg=</HashCode>
+      <FileName>Frm_con_facemap_compl.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_facemap_lyg" Collapsed="true">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iwOSgJDBtSIQYHNlorDFICVCFsQwMga4sgkwpFSgkQg=</HashCode>
+      <FileName>Frm_con_facemap_lyg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_operate_map" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iICgQBLBMCAqELrggQiXGQjeBy0IvGQgRpijwAgCBK0=</HashCode>
+      <FileName>Frm_con_operate_map.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_summary" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEGAARAAALAIQAJAAMCIEAgCAAUAIgABIAEAyAhAAAA=</HashCode>
+      <FileName>Frm_con_summary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_summary_lyg" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAAADAIQAJAAACAEAgCCAAAIAABIAEAQAgAAAA=</HashCode>
+      <FileName>Frm_con_summary_lyg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_con_summary_unite" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAASAAACAIAAAAAICAAAACAIAAAAAAwAACgAgCAAA=</HashCode>
+      <FileName>Frm_con_summary_unite.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_double_bay_movebox" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>h3e++CaxlGq9aAIpSN3a6R9yAUDA6gqcs0E+9EUg4lA=</HashCode>
+      <FileName>Frm_double_bay_movebox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_facemap_print" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Frm_facemap_print.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_file_no" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAAECAIAAAAAACIAAACAAkAAAIAQAACAAAAEAA=</HashCode>
+      <FileName>Frm_file_no.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_find_container" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAOACQAAECAIAACAAICAAAACAAgAAAAAKAABwIgAAAA=</HashCode>
+      <FileName>Frm_find_container.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_modify_goodtype" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGgASAAgCAIAAAAAICAABACAAgAECIAAAECgAAAAAA=</HashCode>
+      <FileName>Frm_modify_goodtype.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_refresh" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAIAAAAACAAAACAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Frm_refresh.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frm_single_bay_movebox" Collapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwOSwCCBFCKdYAIpAICCiDUCAUCA6gCUsEkEoFQggRg=</HashCode>
+      <FileName>Frm_single_bay_movebox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT" Collapsed="true">
+    <Position X="24.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACU=</HashCode>
+      <FileName>FrmABSENT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_ADD" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIABACAAMCAAAQAAAICHCAACAAgAQAAAEAQCAAEIABA=</HashCode>
+      <FileName>FrmABSENT_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Delete" Collapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABACAQMCAAAQAAAICDCAACAAgEQAAAEAQCAAEIBAA=</HashCode>
+      <FileName>FrmABSENT_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Edit" Collapsed="true">
+    <Position X="29.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABACAQMCAAAQAAAICDCAACBAgEQAAAEAQCAAEIAAA=</HashCode>
+      <FileName>FrmABSENT_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print" Collapsed="true">
+    <Position X="31.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmABSENT_Print.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Delete" Collapsed="true">
+    <Position X="33.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAMCAAAQAAACSDEgACADD/QABAEAQCAAAI/zE=</HashCode>
+      <FileName>FrmABSENT_Print_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Dial" Collapsed="true">
+    <Position X="35" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAMCAAAAAAAACCAAACAAAAQAAAEAQAAEAAAAI=</HashCode>
+      <FileName>FrmABSENT_Print_Dial.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Dial_tmp" Collapsed="true">
+    <Position X="36.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAMCAAAAAAAACCAAACAAAAQAAAEAQAAEAAAAI=</HashCode>
+      <FileName>FrmABSENT_Print_Dial_tmp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Dialog" Collapsed="true">
+    <Position X="38.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAMCAAAAAAAACCAAACAAAAQAAAEAQAAEAAAAI=</HashCode>
+      <FileName>FrmABSENT_Print_Dialog.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Dialog_tmp" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAMCAAAAAAAACCAAACAAAAQAAAEEQAAAAAAAI=</HashCode>
+      <FileName>FrmABSENT_Print_Dialog_tmp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Edit" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAMCAAAQAAACSDEgACADD/QCBAEAQCAAAI/zE=</HashCode>
+      <FileName>FrmABSENT_Print_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Edit_shift" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgACBAACAEAAgg4ACCCAACACAAQAAAEASCAAAAACQ=</HashCode>
+      <FileName>FrmABSENT_Print_Edit_shift.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_Query" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAMCAAAAAAAACCAAACAAAAQAQAEAQAAAAAAAI=</HashCode>
+      <FileName>FrmABSENT_Print_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Print_tmp" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAwEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmABSENT_Print_tmp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAbsent_QBKQ" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIAAAAEiAAAAAwAASBCAACAAAAIACAAAQQAAAAAAA=</HashCode>
+      <FileName>FrmAbsent_QBKQ.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmABSENT_Query" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAQMCAAAQAAAACBCAACAAgAAAAAECQCAAAAAAA=</HashCode>
+      <FileName>FrmABSENT_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AlGAAAhqDwAgCACQ=</HashCode>
+      <FileName>FrmAttemper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_ADD" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mQJJojMItLEoDTMwEmSgKoBb+bz/tTlAHG7H+BICkj8=</HashCode>
+      <FileName>FrmAttemper_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_Delete" Collapsed="true">
+    <Position X="21" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACBgCAAdDEAAQIgEiCACgACACgeABFAAAhDwAICAAo=</HashCode>
+      <FileName>FrmAttemper_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_Edit" Collapsed="true">
+    <Position X="22.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mQJJojMItLEoDTMwEmSgKoBb+bz/tTFAHG7H+BKCkj8=</HashCode>
+      <FileName>FrmAttemper_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_ManagerQuery" Collapsed="true">
+    <Position X="24.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7IcBADMAEjAIBQAgEgXIKIJDEDi+oSEABGzSyAhgACk=</HashCode>
+      <FileName>FrmAttemper_ManagerQuery.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_NewMain" Collapsed="true">
+    <Position X="26.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zao5IjDANjFMFQAwFiXAOrpDFSx+/XFCAGyXyQphAGs=</HashCode>
+      <FileName>FrmAttemper_NewMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_openform1" Collapsed="true">
+    <Position X="28" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgGCAECAAAQAAAACAAgACAAhAABAAAABCEAIAAAA=</HashCode>
+      <FileName>FrmAttemper_openform1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_openform2" Collapsed="true">
+    <Position X="29.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgGAAECAAAQAAAACAAgACAAhAAFAAAABCAAIAAAA=</HashCode>
+      <FileName>FrmAttemper_openform2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_openform3" Collapsed="true">
+    <Position X="31.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgGAAACBAAAAAAACAAAACAAhAABAAAABCAAIAAAA=</HashCode>
+      <FileName>FrmAttemper_openform3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_openform4" Collapsed="true">
+    <Position X="33.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgGAAECAAAQAAAACAAgACAAhQABAAAABCEAIAAAA=</HashCode>
+      <FileName>FrmAttemper_openform4.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_openform5" Collapsed="true">
+    <Position X="35" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgCgGQAMGEABAEgAEC0CEICAAwOEBECAEhCyAoAgDo=</HashCode>
+      <FileName>FrmAttemper_openform5.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_PG" Collapsed="true">
+    <Position X="36.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GSpLwjMAsGEoDREwAkC1LMgLeRz/9TFCHG7C6DoAkjs=</HashCode>
+      <FileName>FrmAttemper_PG.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmAttemper_Query" Collapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sQcBgDAANDEgBQAwEiCACgBCYTj/tDFABA7DwBICED4=</HashCode>
+      <FileName>FrmAttemper_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.Frmattendancerecords_ADD" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACAAMCAAAQAgAQCAAgACAAgAAAEAEAQCQAAAAAg=</HashCode>
+      <FileName>FrmAttendancerecords_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmBERTH" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmBERTH.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmBerth_Add" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIIIGABMCIAgAABABCAAAASAAIAAQIAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmBerth_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmBerth_Delete" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIGABMCIAgAABABCCAAACAAIAQQIAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmBerth_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmBerth_Edit" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIGABMCIAgAABABCCAAACAAIAQQIAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmBerth_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmBerth_Query" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEABMiIAgAARABCAAAACAAIAAQIAAAACAAAAAAQ=</HashCode>
+      <FileName>FrmBerth_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCARGO_TALLY_MREPORT" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FRMCARGO_TALLY_MREPORT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoAgent" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmCargoAgent.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoAgent_Add" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIJICABMCAAAYAAJACAEAASAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoAgent_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoAgent_Delete" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoAgent_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoAgent_Edit" Collapsed="true">
+    <Position X="22.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoAgent_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoAgent_Query" Collapsed="true">
+    <Position X="24.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAABMCAAAYAAJACAEAACAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoAgent_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamaged" Collapsed="true">
+    <Position X="26.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmCargoDamaged.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamaged_Add" Collapsed="true">
+    <Position X="28" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamaged_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamaged_Delete" Collapsed="true">
+    <Position X="29.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamaged_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamaged_Edit" Collapsed="true">
+    <Position X="31.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamaged_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamaged_Query" Collapsed="true">
+    <Position X="33.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAJACAAAACAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamaged_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamagedDegree" Collapsed="true">
+    <Position X="35" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmCargoDamagedDegree.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamagedDegree_Add" Collapsed="true">
+    <Position X="36.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamagedDegree_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamagedDegree_Delete" Collapsed="true">
+    <Position X="38.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamagedDegree_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamagedDegree_Edit" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamagedDegree_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoDamagedDegree_Query" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAJACAAAACAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmCargoDamagedDegree_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoPackTest" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMCAgEDoggQiXGQjaBy0IPHTwD5ijwAgCBC0=</HashCode>
+      <FileName>FrmCargoPackTest.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoPackTest_Add" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIQCMQMSR+BAACEoDhBAEDIDD/akACEhfDABACAAA=</HashCode>
+      <FileName>FrmCargoPackTest_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoPackTest_Delete" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIQCIQMCR2AAAAEIChBAADIDD/SkACEBbCABACAAA=</HashCode>
+      <FileName>FrmCargoPackTest_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoPackTest_Edit" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIQCMQMSR+BAACEoDhhAEDIDD/SkACEBfCABACAAA=</HashCode>
+      <FileName>FrmCargoPackTest_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoWaterReport" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qAAgQALAACIgEAgggACXGQi6By0ANEAFEhiDQggCAiw=</HashCode>
+      <FileName>FrmCargoWaterReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCargoWaterReport_Deal" Collapsed="true">
+    <Position X="17.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIICAABECAAAEAAAAKAAgCCAAAAAAAAEAQAAAAAAAA=</HashCode>
+      <FileName>FrmCargoWaterReport_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCheck" Collapsed="true">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmCheck.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCheck_Add" Collapsed="true">
+    <Position X="21" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAAACAAAASAAAAAAAAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmCheck_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCheck_Delete" Collapsed="true">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACABMCAAAAAAAACAAAACAAAAAAAAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmCheck_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCheck_Edit" Collapsed="true">
+    <Position X="24.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACABMCAAAAAAAACAAAACAAAAAAAAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmCheck_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_APPEND_FEE" Collapsed="true">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgABLDMCAgECqggQSFGQjaBS1YvEwgQJijQAgCBC0=</HashCode>
+      <FileName>FRMCON_APPEND_FEE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCon_Certificate_EDI" Collapsed="true">
+    <Position X="28" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAhCEEiAJAAAAAECASIECREhxCEAJAAAiAiQBKKI=</HashCode>
+      <FileName>FrmCon_Certificate_EDI.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_CERTIFICATE_SUM" Collapsed="true">
+    <Position X="29.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgABLDMiCgEDqhgUSF2Qj7Ba14vEQhQNijQAgCBC0=</HashCode>
+      <FileName>FRMCON_CERTIFICATE_SUM.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCON_DAILY_REPORT" Collapsed="true">
+    <Position X="31.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgABLDMKAgEioggQSFGQjaBSVYvEQgQJmhAAgCBC0=</HashCode>
+      <FileName>FrmCON_DAILY_REPORT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCON_DAILY_REPORT_DO" Collapsed="true">
+    <Position X="33.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACACBSECAQAASABASAQCgCAQgQAEBAQAAAAgAAgAA=</HashCode>
+      <FileName>FrmCON_DAILY_REPORT_DO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCON_DAILY_REPORT_DO_other" Collapsed="true">
+    <Position X="35" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACACBSECAQAIWABESAQCgCAQgQIEBAQAAAAgAAgAA=</HashCode>
+      <FileName>FrmCON_DAILY_REPORT_DO_other.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCon_Monitor" Collapsed="true">
+    <Position X="36.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jwJhGhNJcCAxNTvkx0TdWwjapR7/72Q0S9yqsChunD8=</HashCode>
+      <FileName>FrmCon_Monitor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCon_Monitor_TrayOnly" Collapsed="true">
+    <Position X="38.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FIIIJEAAACAAAAAgAACBACASAAAAAwAAAAQIQAAIgAQ=</HashCode>
+      <FileName>FrmCon_Monitor_TrayOnly.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCon_Onport" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jiCgSBIDcSgisL4kgQ/XezzaLw1Y/E4hQpuhhBimBC0=</HashCode>
+      <FileName>FrmCon_Onport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBbBMCAgEiqggQyXGQjaBy1IvGQgQpij4AgCBC0=</HashCode>
+      <FileName>FRMCON_SHORT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT_ADD" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABCAAEiCQCAaQCACEAAASgAgACFAgAAAKQAACEAA=</HashCode>
+      <FileName>FRMCON_SHORT_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT_DELETE" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAACBAEiIQIQCQAACAAECCgAgAAFIAAAAKQAACAAg=</HashCode>
+      <FileName>FRMCON_SHORT_DELETE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT_DO" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABCBAACAQAASgAACAAAACAAgAAEAAAAACAAAAAAA=</HashCode>
+      <FileName>FRMCON_SHORT_DO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT_EDIT" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABCAAEiCQCAaQAACEAAASgggACFAgAAAKQAACAAA=</HashCode>
+      <FileName>FRMCON_SHORT_EDIT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_SHORT_QUERY" Collapsed="true">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAEiAQAAAQAACAAAACgAgAAFAAAEAKQAACAAA=</HashCode>
+      <FileName>FRMCON_SHORT_QUERY.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_CERTIFICATE" Collapsed="true">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgABLDMiAgECqggQSFGQjaBS1YvEQgQJijQAgCBC0=</HashCode>
+      <FileName>FRMCON_TALLY_CERTIFICATE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST" Collapsed="true">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLFMCAgECqggQyXGQjeBy1IvGQgQpijwAgCBC0=</HashCode>
+      <FileName>FRMCON_TALLY_LIST.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_ADD" Collapsed="true">
+    <Position X="21" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CUQQImYqECSQEQbAAxG5P5p2g3r/xWk8bOEPuMAJCYQ=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_DELETE" Collapsed="true">
+    <Position X="22.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAOBKECCQAQIAAwCpFJhmAXj9REsAZIAPmMAJAYA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_DELETE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_DOPRINT" Collapsed="true">
+    <Position X="24.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GEQRACBAUCAQEASQAgWAKEgSggsQZMQEDAgCgIQESAA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_DOPRINT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_EDIT" Collapsed="true">
+    <Position X="26.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CUAQImYqECSQEV7AAxG5PZp2g3r/xWk8bOEPuMAJCYQ=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_EDIT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_FIND" Collapsed="true">
+    <Position X="28" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAECAAEAAAAgGRAAACgggUICAACAACMAAgCCA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_FIND.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_PRINT" Collapsed="true">
+    <Position X="29.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xgRACBAOEGkEBQDEAASCVAgKBQg4UBCAAEQig4gcAAA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_PRINT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_PRINT_new" Collapsed="true">
+    <Position X="31.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggRMCBALkGkEBQCAAASGVAgKBQggUACAAEQigYgcBAA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_PRINT_new.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_TALLY_LIST_QUERY" Collapsed="true">
+    <Position X="33.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAOAKECiQAQIAAwCpFJhmAXj9REkAZIAPmMAJAYA=</HashCode>
+      <FileName>FRMCON_TALLY_LIST_QUERY.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCon_Verify" Collapsed="true">
+    <Position X="35" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jzWgSBIDcSgisb8koQ7XezzeLz3//E4hUpuh1himFC8=</HashCode>
+      <FileName>FrmCon_Verify.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_WAITFOR" Collapsed="true">
+    <Position X="36.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMCAgECqggQyXGQjaBy1IvGQgQpijwAgCBC0=</HashCode>
+      <FileName>FRMCON_WAITFOR.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_WAITFOR_ADD" Collapsed="true">
+    <Position X="38.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCAAWCiECAQAAbYCQCgACICAQ7wIGAwZOAXCIEAEEA=</HashCode>
+      <FileName>FRMCON_WAITFOR_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_WAITFOR_DELETE" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGDCECAQAAKIAQCgACAGAAjwAEIAZIAHCIAAAEA=</HashCode>
+      <FileName>FRMCON_WAITFOR_DELETE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_WAITFOR_EDIT" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAWCiECBQAAbYAQCgACICAQ7wIGAwZOAXCIEAAEA=</HashCode>
+      <FileName>FRMCON_WAITFOR_EDIT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FRMCON_WAITFOR_QUERY" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGCCEDAQAAKIAQCgACACAAjwAEAAZIAHCIAAAEA=</HashCode>
+      <FileName>FRMCON_WAITFOR_QUERY.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCONCRITERION" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmCONCRITERION.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConCriterion_Add" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMsIGABMCAEBIAAAJCwCSASIADzABQAFJwCAgAAAAQ=</HashCode>
+      <FileName>FrmConCriterion_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConCriterion_Delete" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMsAGABMCAEBIAAAJCwCSACIADzABQAFJwCAgAAAAQ=</HashCode>
+      <FileName>FrmConCriterion_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConCriterion_Edit" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMsAGABMCAEBIAAAJCwCSACIADzABQAFJwCAgAAAAQ=</HashCode>
+      <FileName>FrmConCriterion_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConCriterion_Query" Collapsed="true">
+    <Position X="17.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEkAEABMCAEBIAAAJCwCSACIADzABQAFJwCAgAAAAQ=</HashCode>
+      <FileName>FrmConCriterion_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConDamagedType" Collapsed="true">
+    <Position X="19.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConDamagedType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConDamagedType_Add" Collapsed="true">
+    <Position X="21" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAEJACAAAASAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConDamagedType_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConDamagedType_Delete" Collapsed="true">
+    <Position X="22.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConDamagedType_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConDamagedType_Edit" Collapsed="true">
+    <Position X="24.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAEJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConDamagedType_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConDamagedType_Query" Collapsed="true">
+    <Position X="26.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConDamagedType_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCondition" Collapsed="true">
+    <Position X="28" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AELCBgEAkKQmAAiEGYCQgQDTAQD5JBDBtMoggDTAAGA=</HashCode>
+      <FileName>FrmCondition.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo" Collapsed="true">
+    <Position X="29.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yBAgSRLFNGAoUTowgUifGRjaBz0KvGQgC5ij4IgCBC8=</HashCode>
+      <FileName>FrmConHatchCargo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Add" Collapsed="true">
+    <Position X="31.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xAKMeCBAsCQEAEgmoEiBKGoSQDnTNgqQFAQikAAIAAA=</HashCode>
+      <FileName>FrmConHatchCargo_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Check" Collapsed="true">
+    <Position X="33.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAeKDAoAkCACAEAhAADEEBAGABAAgAQgOAwEECgIBAA=</HashCode>
+      <FileName>FrmConHatchCargo_Check.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Delete" Collapsed="true">
+    <Position X="35" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgKPFCBEMCQEAEAiBUCCIDYCYCHTNiA4lwQCAAQSAwQ=</HashCode>
+      <FileName>FrmConHatchCargo_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Edit" Collapsed="true">
+    <Position X="36.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xgKHHCBFMCQEAEgiIUCDIH6CYDHTNgowhwQikAQaAwQ=</HashCode>
+      <FileName>FrmConHatchCargo_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_ModiAllCon" Collapsed="true">
+    <Position X="38.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoIAABAECAAAAAiAACAAAACACAAIAAAEAQAAAAIAAA=</HashCode>
+      <FileName>FrmConHatchCargo_ModiAllCon.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Query" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgEESFEtCREAEAqAQCAACICRDH/MgAkNoQCQAEFQEE=</HashCode>
+      <FileName>FrmConHatchCargo_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_SeeClass" Collapsed="true">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEkAUAgAECAAAABEAACQAAAiCACQAAAAEAQAKCQAAAA=</HashCode>
+      <FileName>FrmConHatchCargo_SeeClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_SeeClassOg" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAgAECAAAAAAAACQAAACCADwAAAAEAQAICQAAAA=</HashCode>
+      <FileName>FrmConHatchCargo_SeeClassOg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_TransRelation" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADIIBAAwkCEAAAAiAACAAIASAAAAqCFAEAQAAAoCAAE=</HashCode>
+      <FileName>FrmConHatchCargo_TransRelation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConHatchCargo_Verify" Collapsed="true">
+    <Position X="12.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAICAAAQFCBAAAAgIADEEAACAAACBQAAGAQAEAHJBAA=</HashCode>
+      <FileName>FrmConHatchCargo_Verify.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImage_Keeper" Collapsed="true">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAAECABAkAgAACgAAACAAVCEAAAAAQAAAAAAAg=</HashCode>
+      <FileName>FrmConImage_Keeper.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImage_TrayOnly" Collapsed="true">
+    <Position X="15.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIIAAAACAAAAAgAACAAAACAAAAAAAAAAQIQAAIhAA=</HashCode>
+      <FileName>FrmConImage_TrayOnly.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo" Collapsed="true">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAhVRrBciAgEKowgUyXOVzbBz8YvWxpi5yjyghCRC0=</HashCode>
+      <FileName>FrmConImageCargo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Add" Collapsed="true">
+    <Position X="19.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wCIJMGMAOCgHMQAAATDBECIaBDT/EIgWEoUCYGAUACA=</HashCode>
+      <FileName>FrmConImageCargo_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Add2" Collapsed="true">
+    <Position X="21" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAKMCAIAASAABAgyIICAIAgGBQAABQsAoKQAEAIMAAA=</HashCode>
+      <FileName>FrmConImageCargo_Add2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Addg" Collapsed="true">
+    <Position X="22.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCIsKKIAOGQCMBAQgYCBMGJaBCD/EAg0FoUiAAAEACA=</HashCode>
+      <FileName>FrmConImageCargo_Addg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_BayNo" Collapsed="true">
+    <Position X="24.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAGKIAAAgggCCAAAACACQAMAgAAEUAAABAACA=</HashCode>
+      <FileName>FrmConImageCargo_BayNo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Deal" Collapsed="true">
+    <Position X="26.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIIABAAECIAAAAkAQCAAABCAAAIBBQAEGQAgAAABAE=</HashCode>
+      <FileName>FrmConImageCargo_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_DealSub" Collapsed="true">
+    <Position X="28" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAEKAAAAAgAACAAAACAAAAAQAAECYABAAAAAA=</HashCode>
+      <FileName>FrmConImageCargo_DealSub.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_DelBill" Collapsed="true">
+    <Position X="29.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIBAABECEAAAAkAACAAAICAAAAACCAAAQAAAAAAAg=</HashCode>
+      <FileName>FrmConImageCargo_DelBill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Delete" Collapsed="true">
+    <Position X="31.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCIJEGIAOCgFMAAAASDAECMKBDT/EIAWEoUCQCAUACA=</HashCode>
+      <FileName>FrmConImageCargo_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Deleteg" Collapsed="true">
+    <Position X="33.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YCIIAKAAOCQAAAAAAQCAECJKBCD/AAA0FgUCAAAEACA=</HashCode>
+      <FileName>FrmConImageCargo_Deleteg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Div" Collapsed="true">
+    <Position X="35" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAEmAAAAAgAACgAAASAAAABAAABIQAAEAACAA=</HashCode>
+      <FileName>FrmConImageCargo_Div.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Edit" Collapsed="true">
+    <Position X="36.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wCIJEGIAOCgHMQAAATDBECIKBDT/EIAWEoUCYCAUACA=</HashCode>
+      <FileName>FrmConImageCargo_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Editg" Collapsed="true">
+    <Position X="38.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCIsCKAAOGQCMAAQgQCBMGJKBCD/EAg0FgUiQAAEACA=</HashCode>
+      <FileName>FrmConImageCargo_Editg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_ModiSeal" Collapsed="true">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIAAAAECAAAAAgAACAAAACAAAAAAAAEAQAEAAIEAA=</HashCode>
+      <FileName>FrmConImageCargo_ModiSeal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_PortAccord" Collapsed="true">
+    <Position X="7" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEKAAoAAgEACAAAIGAgAAgBACAABgABIMAEI=</HashCode>
+      <FileName>FrmConImageCargo_PortAccord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Query" Collapsed="true">
+    <Position X="8.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCABEGIAOCgHMAAAASDAECIKBDT/EIAWEoUCQCAUACA=</HashCode>
+      <FileName>FrmConImageCargo_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Queryg" Collapsed="true">
+    <Position X="10.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAKAQOCQAAAAAAQCAECJKBCD/AAA0FgUCAAAEACA=</HashCode>
+      <FileName>FrmConImageCargo_Queryg.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_SeeClass" Collapsed="true">
+    <Position X="12.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAUAgAECAAAABEAACQAAAiCACQAQAAEAQAKCQAAAA=</HashCode>
+      <FileName>FrmConImageCargo_SeeClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Tray" Collapsed="true">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAKKpAEcECCABCEkAAiAAgBCABAAAABgCAQIUCAowEA=</HashCode>
+      <FileName>FrmConImageCargo_Tray.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_Union" Collapsed="true">
+    <Position X="15.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAECAAAAAgAACAAAISAAAABAAAAAQAAAAACAA=</HashCode>
+      <FileName>FrmConImageCargo_Union.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConImageCargo_UnloadPort" Collapsed="true">
+    <Position X="17.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIKAAAAEKAAAAAhAADABAACAAACgQAAkAYDIAGAAgA=</HashCode>
+      <FileName>FrmConImageCargo_UnloadPort.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConKind" Collapsed="true">
+    <Position X="19.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConKind.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConKind_Add" Collapsed="true">
+    <Position X="21" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConKind_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConKind_Delete" Collapsed="true">
+    <Position X="22.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConKind_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConKind_Edit" Collapsed="true">
+    <Position X="24.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConKind_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConKind_Query" Collapsed="true">
+    <Position X="26.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConKind_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoad_build" Collapsed="true">
+    <Position X="28" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAGgAABAACAIAAgAAICACABCAAAAEAAAAICCgAQAACQ=</HashCode>
+      <FileName>FrmConLoad_build.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadBuild" Collapsed="true">
+    <Position X="29.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALABCAgEAgggAiXGQCaBy0AFGAAAhiDwAgCACY=</HashCode>
+      <FileName>FrmConLoadBuild.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadBuildConsign" Collapsed="true">
+    <Position X="31.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAGgACgAECAAAIAAAICQAAACAAAAAAIAAIACgAQAAAA=</HashCode>
+      <FileName>FrmConLoadBuildConsign.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinal_Report" Collapsed="true">
+    <Position X="33.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WhJoAJDFGCIACAAgwEiBMAGKBCwBgBALUgQA4ABRIiA=</HashCode>
+      <FileName>FrmConLoadFinal_Report.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinal_SelectShip" Collapsed="true">
+    <Position X="35" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAACFCAAgAggAAChAAACACggJBAAEOQEiAAQAhk=</HashCode>
+      <FileName>FrmConLoadFinal_SelectShip.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinalCheck_Deal" Collapsed="true">
+    <Position X="36.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QGpNgDpZMCQAJahgQQbGiOZaKL//uhTocPSGKATUIDE=</HashCode>
+      <FileName>FrmConLoadFinalCheck_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinalCheck_Select" Collapsed="true">
+    <Position X="38.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAECAAAAAMAICAAAJCQAAAAAAAAIQACAQACCA=</HashCode>
+      <FileName>FrmConLoadFinalCheck_Select.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinalNew" Collapsed="true">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jUAqUEJgBSAgFAygAAiHGQDSB2xhnEAlGhiDAAxCJCQ=</HashCode>
+      <FileName>FrmConLoadFinalNew.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinalNew_Add" Collapsed="true">
+    <Position X="7" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xAqNeSNEtGQEAEAmoUiBKGoSRDn/Mki0NoQiUAANREE=</HashCode>
+      <FileName>FrmConLoadFinalNew_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadFinalNew_Edit" Collapsed="true">
+    <Position X="8.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xgqHHSNFNGQEIEQiIUSDKH6CZDH/Nkikt4QiUAQfR0U=</HashCode>
+      <FileName>FrmConLoadFinalNew_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConLoadTallyReceipt_Edit" Collapsed="true">
+    <Position X="10.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEJMEKpAMCAAJcBAQQjDKOJaKDD/EAAIEJSGCAAUAFA=</HashCode>
+      <FileName>FrmConLoadTallyReceipt_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConOpen" Collapsed="true">
+    <Position X="12.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQDLBMCAgECoggQiXGQjaBy0IvGQgApijwAgCBG0=</HashCode>
+      <FileName>FrmConOpen.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConOpen_Deal" Collapsed="true">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIIAAARUSAAAAAgAACAAAACCgAAgCAAsEQAAAABAAA=</HashCode>
+      <FileName>FrmConOpen_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConPosition" Collapsed="true">
+    <Position X="15.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConPosition.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConPosition_Add" Collapsed="true">
+    <Position X="17.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmConPosition_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConPosition_Delete" Collapsed="true">
+    <Position X="19.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmConPosition_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConPosition_Edit" Collapsed="true">
+    <Position X="21" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQSIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmConPosition_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConPosition_Query" Collapsed="true">
+    <Position X="22.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAJACAAAACAEAAASIAEAQKAAAAAgA=</HashCode>
+      <FileName>FrmConPosition_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConReload" Collapsed="true">
+    <Position X="24.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiCECiAAAAIAACAAEEDgIAgQMAYgAAAAAAAQQA=</HashCode>
+      <FileName>FrmConReload.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConRent" Collapsed="true">
+    <Position X="26.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQDLBMCgoECoggQmXGQjaBy0IPGQgApijwAgCBG0=</HashCode>
+      <FileName>FrmConRent.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConRent_Bill" Collapsed="true">
+    <Position X="28" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAECAAAgAAAAKAAAICAgAAYBAAAABAAAIABCA=</HashCode>
+      <FileName>FrmConRent_Bill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConRent_BillNew" Collapsed="true">
+    <Position X="29.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIIAAAAGCAIAAAgAAKAAAICABAAoCCAFAQBACABBAA=</HashCode>
+      <FileName>FrmConRent_BillNew.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConRent_Deal" Collapsed="true">
+    <Position X="31.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIIACAAGCAIEAAgAACAAAACAAAAAAAAEAQCAAAAhAA=</HashCode>
+      <FileName>FrmConRent_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConSealExam" Collapsed="true">
+    <Position X="33.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBMCAgECoggQiXGQjaBy0IPGQgApijwAgCBC0=</HashCode>
+      <FileName>FrmConSealExam.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConSealExam_Add" Collapsed="true">
+    <Position X="35" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIICCCAMCAABABgAADACAUCAABwIKAIkBQLgggBAEA=</HashCode>
+      <FileName>FrmConSealExam_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConSealExam_Delete" Collapsed="true">
+    <Position X="36.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIICCAAMCAABAAgAACACAUCAABwAIAImBQKggAAAAA=</HashCode>
+      <FileName>FrmConSealExam_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConSealExam_Edit" Collapsed="true">
+    <Position X="38.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIICCCAMCAABAAgAACgCAUCAABwAKAJkBQKgggAAEA=</HashCode>
+      <FileName>FrmConSealExam_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConSealExam_Query" Collapsed="true">
+    <Position X="5.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCAAMCAABAAgAACACgQCAEBwAIAIkBQKIgAAAAA=</HashCode>
+      <FileName>FrmConSealExam_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainer_Select" Collapsed="true">
+    <Position X="7" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAEECAAAAAEAICAAgICQAQBACAAEAQAAAAACCA=</HashCode>
+      <FileName>FrmContainer_Select.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerBillList" Collapsed="true">
+    <Position X="8.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQJLBECAgECoggQiXGQjaBy0IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerBillList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerCargoList" Collapsed="true">
+    <Position X="10.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgECoggQiXGQjaBy0IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerCargoList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerDangerList" Collapsed="true">
+    <Position X="12.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgECoggQiXGQjaBy2IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerDangerList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerListSummary" Collapsed="true">
+    <Position X="14" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>nDEjSRPdfKl6FDJy8QKXHR/aDS+ILsYjLrmjABwqRj0=</HashCode>
+      <FileName>FrmContainerListSummary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerLoadSummary" Collapsed="true">
+    <Position X="15.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgEDoggQiXGQjaBy0IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerLoadSummary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerNoList" Collapsed="true">
+    <Position X="17.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgECoggQiXGQjaBy0IHGQgAhijwAgKBC0=</HashCode>
+      <FileName>FrmContainerNoList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerOutPort_Select" Collapsed="true">
+    <Position X="19.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAABAECAgAAAEAICAEAJCQAwAADAAEKRACgQADCE=</HashCode>
+      <FileName>FrmContainerOutPort_Select.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerPortList" Collapsed="true">
+    <Position X="21" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQJLBECAgECoggQiXGQjaBy0IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerPortList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerPortSummary" Collapsed="true">
+    <Position X="22.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgECoggQiXGQjaBy0IHGQgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerPortSummary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmContainerReeferList" Collapsed="true">
+    <Position X="24.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAhQBLBECAgECoggQiXGQjaBy0IHGUgAhijwAgCBC0=</HashCode>
+      <FileName>FrmContainerReeferList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTraffic" Collapsed="true">
+    <Position X="26.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConTraffic.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTraffic_Add" Collapsed="true">
+    <Position X="28" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConTraffic_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTraffic_Delete" Collapsed="true">
+    <Position X="29.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConTraffic_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTraffic_Edit" Collapsed="true">
+    <Position X="31.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConTraffic_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTraffic_Query" Collapsed="true">
+    <Position X="33.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmConTraffic_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConType" Collapsed="true">
+    <Position X="35" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConType_Add" Collapsed="true">
+    <Position X="36.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIICABsCAAAAAAAACAAAASAAAAARIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmConType_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConType_Delete" Collapsed="true">
+    <Position X="38.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACAAAACAAAAARIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmConType_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConType_Edit" Collapsed="true">
+    <Position X="5.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACAAAACAAAAARIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmConType_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConType_Query" Collapsed="true">
+    <Position X="7" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABsCAAAAAAAACAAAACAAAAARIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmConType_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTypeRelation" Collapsed="true">
+    <Position X="8.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmConTypeRelation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTypeRelation_Add" Collapsed="true">
+    <Position X="10.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIICABsCAAAAAAAACIAAASAAAAAQIAEBQCAAAAAAA=</HashCode>
+      <FileName>FrmConTypeRelation_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTypeRelation_Delete" Collapsed="true">
+    <Position X="12.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACIAAACAAAAAQIAEBQCAAAAAAA=</HashCode>
+      <FileName>FrmConTypeRelation_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTypeRelation_Edit" Collapsed="true">
+    <Position X="14" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACIAAACAAAAAQIAEBQCAAAAAAA=</HashCode>
+      <FileName>FrmConTypeRelation_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmConTypeRelation_Query" Collapsed="true">
+    <Position X="15.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABsCAAAAAAAACIAAACAAAAAQIAEBQCAAAAAAA=</HashCode>
+      <FileName>FrmConTypeRelation_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmCropEconomyStatistics_Edit" Collapsed="true">
+    <Position X="17.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIASAAMiQAAAAAAACBMIBCAAAwAAgAEBQHIAAAAQA=</HashCode>
+      <FileName>FrmCropEconomyStatistics_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDelLoadPort" Collapsed="true">
+    <Position X="19.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAMCCAAAAAAACAAAACAAAAAAAgAAAAAAQAAAA=</HashCode>
+      <FileName>FrmDelLoadPort.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDepartMent" Collapsed="true">
+    <Position X="21" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmDepartMent.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDepartMent_ADD" Collapsed="true">
+    <Position X="22.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIYICABMCAAAAAIAACgAAASCSAAQAAAEAQiABAAAAA=</HashCode>
+      <FileName>FrmDepartMent_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDepartMent_Delete" Collapsed="true">
+    <Position X="24.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACABMCAAAAAIAACCAAACACAAQAAAEAQiAAAAAAA=</HashCode>
+      <FileName>FrmDepartMent_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDepartMent_Edit" Collapsed="true">
+    <Position X="26.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACABMCAAAAAIAACiAAACCSAAQAAAEAQiAAAAAAA=</HashCode>
+      <FileName>FrmDepartMent_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmDepartMent_Query" Collapsed="true">
+    <Position X="28" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACABMCAAAAAIAACAAAACACAAQAAAEAQiAAAAAAA=</HashCode>
+      <FileName>FrmDepartMent_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIINI" Collapsed="true">
+    <Position X="29.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAECAEgIAABACBBAACAEAAIAAAABBAADQgBEA=</HashCode>
+      <FileName>FrmEDIINI.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIRead" Collapsed="true">
+    <Position X="31.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMiCgECqggUiXGQjaBy1IPkQhStijwAgCBC0=</HashCode>
+      <FileName>FrmEDIRead.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIRead_Delete" Collapsed="true">
+    <Position X="33.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQiIBfCADQACDAQCCQqQiIDD/QJIQ0RUCAOAgAAA=</HashCode>
+      <FileName>FrmEDIRead_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIRead_Edit" Collapsed="true">
+    <Position X="35" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQiIBfCADQACDAQCCQqQiIDD/QJIQ0RUCAOAgAAA=</HashCode>
+      <FileName>FrmEDIRead_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIReadList" Collapsed="true">
+    <Position X="36.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMiCgECqggUiXGQjaBy1IPGQhQtijwAgCBC0=</HashCode>
+      <FileName>FrmEDIReadList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIWrite" Collapsed="true">
+    <Position X="38.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMiCgEDqggUiXGQjbB61oPGQhQtijwAgCBC0=</HashCode>
+      <FileName>FrmEDIWrite.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEDIWriteList" Collapsed="true">
+    <Position X="5.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBMiSgEDqggUiXGQjaBy3IPGQhQtirwAgCFC0=</HashCode>
+      <FileName>FrmEDIWriteList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEmailName" Collapsed="true">
+    <Position X="7" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmEmailName.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEmailName_Add" Collapsed="true">
+    <Position X="8.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCIAAIAAAACAAAASAAgAAQIAECQCAAAABAQ=</HashCode>
+      <FileName>FrmEmailName_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEmailName_Delete" Collapsed="true">
+    <Position X="10.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACABMCAAAIAAAACAAAACAAAAAAIAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmEmailName_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEmailName_Edit" Collapsed="true">
+    <Position X="12.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACBBMCAAAIAgAgCCAACCABAAQAIAECQCgAAABAQ=</HashCode>
+      <FileName>FrmEmailName_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmEmailName_Query" Collapsed="true">
+    <Position X="14" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAIAAAACAAAACAAAAAAIAEAQCAAAAAAQ=</HashCode>
+      <FileName>FrmEmailName_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFind" Collapsed="true">
+    <Position X="15.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUAAAggACEAAgHgAACAAEAiADAAgAQAAkACAAAAAQY=</HashCode>
+      <FileName>FrmFind.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFindPort" Collapsed="true">
+    <Position X="17.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACECAAAAAgBACggAAiCAAAACAAgAAAAAAAAAA=</HashCode>
+      <FileName>FrmFindPort.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFinishShipStatistics" Collapsed="true">
+    <Position X="19.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAQCIgEAgggACXGQi6By0ANEAFEhiDYggCAiQ=</HashCode>
+      <FileName>FrmFinishShipStatistics.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFinishShipStatistics_Deal" Collapsed="true">
+    <Position X="21" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIIAEBECAAAAAAAACAAgCCAAAAAAAAEAQAAACAAAA=</HashCode>
+      <FileName>FrmFinishShipStatistics_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFinishVesselStatistics" Collapsed="true">
+    <Position X="22.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACIoEAgggACXGQi6By0ANEAVEhqDYggCAiU=</HashCode>
+      <FileName>FrmFinishVesselStatistics.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmFinishVesselStatistics_Deal" Collapsed="true">
+    <Position X="24.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAABECAIAAAAAACAQgCCAAAAAAAUEAQGAAgAAIA=</HashCode>
+      <FileName>FrmFinishVesselStatistics_Deal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmHis" Collapsed="true">
+    <Position X="26.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAQQLAACAAECgggAiXGQCaB60AFOAAAhiDQAgCACQ=</HashCode>
+      <FileName>FrmHis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmHis_Query" Collapsed="true">
+    <Position X="28" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgECABAAAAAACAAIICAAYECAAAAABAAAAAABE=</HashCode>
+      <FileName>FrmHis_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmHis_Select" Collapsed="true">
+    <Position X="29.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIIQAgECABAAAAAICAAAASAAYGCAAAWCQAIAAACAQ=</HashCode>
+      <FileName>FrmHis_Select.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmLogin" Collapsed="true">
+    <Position X="31.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAQAAMCQAIABABACKAAACAAAAIAAAogAIAAAEIQA=</HashCode>
+      <FileName>FrmLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmMain" Collapsed="true">
+    <Position X="33.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sZIPsgaEkCkF8RhCgQSAWQiTCC5M13DwB5SCMAwEgW0=</HashCode>
+      <FileName>FrmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNationality" Collapsed="true">
+    <Position X="35" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmNationality.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNationality_Add" Collapsed="true">
+    <Position X="36.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJICAAABSAEAAAAAAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmNationality_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNationality_Delete" Collapsed="true">
+    <Position X="38.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJICCAABCAEAAQAAAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmNationality_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNationality_Edit" Collapsed="true">
+    <Position X="5.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJICCAABCAEAAQAAAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmNationality_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNationality_Query" Collapsed="true">
+    <Position X="7" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAIACAAABCAAAAAAAAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmNationality_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmNav" Collapsed="true">
+    <Position X="8.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrmNav.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPack" Collapsed="true">
+    <Position X="10.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmPack.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPack_Add" Collapsed="true">
+    <Position X="12.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmPack_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPack_Delete" Collapsed="true">
+    <Position X="14" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmPack_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPack_Edit" Collapsed="true">
+    <Position X="15.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACAEAAQQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmPack_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPack_Query" Collapsed="true">
+    <Position X="17.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmPack_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPart" Collapsed="true">
+    <Position X="19.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgUALAASAgEggggAiXGQCaBy0AFEAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmPart.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPart_Add" Collapsed="true">
+    <Position X="21" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAECAACAAAAICAAAICAAAAAAAAAAACAAAAYAE=</HashCode>
+      <FileName>FrmPart_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPart_Del" Collapsed="true">
+    <Position X="22.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAACAQECAAAAAAAICACAICAAAAAAAAAAACCAAAIAE=</HashCode>
+      <FileName>FrmPart_Del.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPart_Edit" Collapsed="true">
+    <Position X="24.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAACAAECAAiAAAAICACAICAAAAAAAAAAACgAAAYAE=</HashCode>
+      <FileName>FrmPart_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPart_Query" Collapsed="true">
+    <Position X="26.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAECAAgAAAAICACAICAAAAAAAAAAACgAAAIAE=</HashCode>
+      <FileName>FrmPart_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPAY_PERFORMANCE" Collapsed="true">
+    <Position X="28" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AlGAAQhiDwAgCACQ=</HashCode>
+      <FileName>FrmPAY_PERFORMANCE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPAY_PERFORMANCE_Dialog" Collapsed="true">
+    <Position X="29.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAECAAAQAAAACCAgACAAAAQAAAEAQAAEAAAAA=</HashCode>
+      <FileName>FrmPAY_PERFORMANCE_Dialog.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPAY_PERFORMANCE_Edit" Collapsed="true">
+    <Position X="31.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAMCAAAAAAACSCAAACAAAAQAAAEAQCAAAICBE=</HashCode>
+      <FileName>FrmPAY_PERFORMANCE_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPort" Collapsed="true">
+    <Position X="33.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmPort.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPort_Add" Collapsed="true">
+    <Position X="35" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAIAAgLgCAAAASIFgAASIAEAQKgAAAAoA=</HashCode>
+      <FileName>FrmPort_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPort_Delete" Collapsed="true">
+    <Position X="36.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAJACCAAACIEAAQSIAEAQKAAAAAoA=</HashCode>
+      <FileName>FrmPort_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPort_Edit" Collapsed="true">
+    <Position X="38.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAIAAgLgCCAAACIFgAQSIAEAQKgAAAA4Q=</HashCode>
+      <FileName>FrmPort_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPort_Query" Collapsed="true">
+    <Position X="5.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAgJgCAAAACIEgAASIAEAQKgAAAAoA=</HashCode>
+      <FileName>FrmPort_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmPreview" Collapsed="true">
+    <Position X="7" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAEAQACAAIAgAAACADEICAAAICAAQAACCCAAAgCA=</HashCode>
+      <FileName>FrmPreview.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmReadMail" Collapsed="true">
+    <Position X="8.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SQgAADCEEiAIAEAAAECgEAACAEgAEEgxAAAiAAQBAAA=</HashCode>
+      <FileName>FrmReadMail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmReadMailList" Collapsed="true">
+    <Position X="10.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQgAACCEEiAIAAAAAECgAAACAEggEEghAAACAAQBAAA=</HashCode>
+      <FileName>FrmReadMailList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmReadTemp" Collapsed="true">
+    <Position X="12.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAECAAAAAAAACAAAACAIAAAAgAAAAEAAQAAAA=</HashCode>
+      <FileName>FrmReadTemp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmRs_Salary_In" Collapsed="true">
+    <Position X="14" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAIIAAAAECCAAAQgAQGAAAACQAABoFAAEARAAsAIAYA=</HashCode>
+      <FileName>FrmRs_Salary_In.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSEAL_EXAM" Collapsed="true">
+    <Position X="15.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQBLBNCAgECqggQyXGQjaBy1IvGQgQpijwAgCBC0=</HashCode>
+      <FileName>FrmSEAL_EXAM.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSEAL_EXAM_ADD" Collapsed="true">
+    <Position X="17.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAFEqBQKQSACASIAAICAwxxAFEIJYACCIAKlgA=</HashCode>
+      <FileName>FrmSEAL_EXAM_ADD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSEAL_EXAM_DELETE" Collapsed="true">
+    <Position X="19.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBFEjBQAACAAACIAAACAQhwAFMABYACAIACBAA=</HashCode>
+      <FileName>FrmSEAL_EXAM_DELETE.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSEAL_EXAM_EDIT" Collapsed="true">
+    <Position X="21" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAVEqBQKQSAAASIAAICCwxxAFEIJYACCIAKhgA=</HashCode>
+      <FileName>FrmSEAL_EXAM_EDIT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSEAL_EXAM_QUERY" Collapsed="true">
+    <Position X="22.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACgFEqBQAACAAACIAAACAQhxAFEABYACCIACBAA=</HashCode>
+      <FileName>FrmSEAL_EXAM_QUERY.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealIn" Collapsed="true">
+    <Position X="24.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAgggAiXGQCaBy0AFGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmSealIn.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealIn_Add" Collapsed="true">
+    <Position X="26.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIJAGAEMCIAAAAIGAHAAAACEAAAIAAAEAQDAEAAEAA=</HashCode>
+      <FileName>FrmSealIn_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealIn_Delete" Collapsed="true">
+    <Position X="28" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAMCIAAAAACADAAQACAAQAAAAAEAQDAAQAAAA=</HashCode>
+      <FileName>FrmSealIn_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealIn_Edit" Collapsed="true">
+    <Position X="29.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIJAGAEMCIAAAAICAHAAAACAAgAAAAAEAQDAAAAEAA=</HashCode>
+      <FileName>FrmSealIn_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealIn_Query" Collapsed="true">
+    <Position X="31.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAMCAAAAABCADAAAACAAQAAAAAEAQDAAAAAAA=</HashCode>
+      <FileName>FrmSealIn_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealInquire" Collapsed="true">
+    <Position X="33.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgAQKAAiAAEAgggAmXGQCaB60AlOAAABiDQAgKgCQ=</HashCode>
+      <FileName>FrmSealInquire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealInquire_Select" Collapsed="true">
+    <Position X="35" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIgAAgUSAEBhEiygDMiAECHED/NMATEIQ3SgoECEg=</HashCode>
+      <FileName>FrmSealInquire_Select.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealInspect" Collapsed="true">
+    <Position X="36.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAECAAEAgggAqXGQCaBy0AlGBAAhiDQAgCACQ=</HashCode>
+      <FileName>FrmSealInspect.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealInspect_Check" Collapsed="true">
+    <Position X="38.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIIACAE8CQABAEACAXAAAIDMJCAAIAAEIwDSAAAEAA=</HashCode>
+      <FileName>FrmSealInspect_Check.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealInspect_Query" Collapsed="true">
+    <Position X="5.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAowAAA8CAAAAAAAECAEAACEBL/AIACAJBCSAAIACA=</HashCode>
+      <FileName>FrmSealInspect_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealKill" Collapsed="true">
+    <Position X="7" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAgggAiXGQCaBy0AlGAAAhiDQAgCACQ=</HashCode>
+      <FileName>FrmSealKill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealKill_Edit" Collapsed="true">
+    <Position X="8.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACAAMCIABAAAAACAEAAKAAAoEAAAERQDQAAAAAA=</HashCode>
+      <FileName>FrmSealKill_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealKill_query" Collapsed="true">
+    <Position X="10.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAMCAABAAAAACAEAACAAAgAAAAEAQDQAAAAAA=</HashCode>
+      <FileName>FrmSealKill_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealOut" Collapsed="true">
+    <Position X="12.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAgggAiXGQCaBy0AFGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmSealOut.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealOut_Add" Collapsed="true">
+    <Position X="14" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIIACAEtCAMICAAKAnCAAACEEAApgCCEAQDQEICQBA=</HashCode>
+      <FileName>FrmSealOut_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealOut_Delete" Collapsed="true">
+    <Position X="15.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAMCAAAAAACADACgACAAAAAAAAEAQSQEQAAAA=</HashCode>
+      <FileName>FrmSealOut_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealOut_Edit" Collapsed="true">
+    <Position X="17.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIIACAEsCAAACAACAnAAgICAEAABgCKEAYDQEIAQAA=</HashCode>
+      <FileName>FrmSealOut_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSealOut_Query" Collapsed="true">
+    <Position X="19.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAACADAAgACAAAAAAAAEAQSQAAAAAA=</HashCode>
+      <FileName>FrmSealOut_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipAgent" Collapsed="true">
+    <Position X="21" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmShipAgent.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipAgent_Add" Collapsed="true">
+    <Position X="22.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAILICABMCAAAYAAJACAEAASAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipAgent_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipAgent_Delete" Collapsed="true">
+    <Position X="24.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAALACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipAgent_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipAgent_Edit" Collapsed="true">
+    <Position X="26.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAALACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipAgent_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipAgent_Query" Collapsed="true">
+    <Position X="28" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJACABMCAAAYAAJACAEAACAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipAgent_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName" Collapsed="true">
+    <Position X="29.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGQIAhiDwAgCACQ=</HashCode>
+      <FileName>FrmShipName.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName_Add" Collapsed="true">
+    <Position X="31.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAJACAAAASAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmShipName_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName_Delete" Collapsed="true">
+    <Position X="33.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmShipName_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName_Edit" Collapsed="true">
+    <Position X="35" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIACABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmShipName_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName_Query" Collapsed="true">
+    <Position X="36.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAJACAAAACAEAAAQIAEAQKAAAAAAA=</HashCode>
+      <FileName>FrmShipName_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipName_Union" Collapsed="true">
+    <Position X="38.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgBIBAECADEAAgAACEAAACgIAAAFggAAQAQAIQAQA=</HashCode>
+      <FileName>FrmShipName_Union.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipOwner" Collapsed="true">
+    <Position X="5.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmShipOwner.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipOwner_Add" Collapsed="true">
+    <Position X="7" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIJICABMCAAAYAAJACAEAASAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipOwner_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipOwner_Delete" Collapsed="true">
+    <Position X="8.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipOwner_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipOwner_Edit" Collapsed="true">
+    <Position X="10.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJACABMCAAAYAAJACCEAACAEAwYSZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipOwner_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmShipOwner_Query" Collapsed="true">
+    <Position X="12.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAABMCAAAYAAJACAEAACAEAwISZoEAQKAAAAAgA=</HashCode>
+      <FileName>FrmShipOwner_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSort" Collapsed="true">
+    <Position X="14" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAKDAPwICACCBAIACCAIAIEQAAAAgAAAAkAA=</HashCode>
+      <FileName>FrmSort.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSpConLoadType" Collapsed="true">
+    <Position X="15.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gECDAQAAECAMEAABAACIAQgCAAcAABAAIAEAEAhAgAA=</HashCode>
+      <FileName>FrmSpConLoadType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSpConPayType" Collapsed="true">
+    <Position X="17.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gECCAQAAEKAMEAABAACIAQgCAAUQABAAIAkAEAhAgAA=</HashCode>
+      <FileName>FrmSpConPayType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSShip" Collapsed="true">
+    <Position X="19.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AlGAAAhiDwAgDACQ=</HashCode>
+      <FileName>FrmSShip.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSShip_Add" Collapsed="true">
+    <Position X="21" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3BTMgjWl1SlliR8mMxGFGoMOazv/+TZpChvXEieEBD8=</HashCode>
+      <FileName>FrmSShip_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSShip_Delete" Collapsed="true">
+    <Position X="22.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iACMgiSgkS1ggRAGswGBAosKazv/CBBggghDEiOAQDQ=</HashCode>
+      <FileName>FrmSShip_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSShip_Edit" Collapsed="true">
+    <Position X="24.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yQTMgjWglS1hiRAGMxGFAosOazv/aRBhihhfEiOEiDQ=</HashCode>
+      <FileName>FrmSShip_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmSShip_Query" Collapsed="true">
+    <Position X="26.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQCMgiSgkS1giRAGMwGBAosKazv/KBBggghDEiGEQDQ=</HashCode>
+      <FileName>FrmSShip_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTally_Wage" Collapsed="true">
+    <Position X="28" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQgQALAACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTally_Wage.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTally_Wage_his" Collapsed="true">
+    <Position X="29.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQgQALAACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTally_Wage_his.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyClerk" Collapsed="true">
+    <Position X="31.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTallyClerk.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyClerk_Add" Collapsed="true">
+    <Position X="33.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsppSAhMCMgoAAQAAKAAACSAAD3MCSgEAQ2AIMAAAQ=</HashCode>
+      <FileName>FrmTallyClerk_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyClerk_Delete" Collapsed="true">
+    <Position X="35" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkhhSAhMCMgoAAQAAKCAACCAAD3cASgEAQ2AIMAAAQ=</HashCode>
+      <FileName>FrmTallyClerk_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyClerk_Edit" Collapsed="true">
+    <Position X="36.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkhhSAhMCMgoAAQAAKCAACCAAD3cCSgEAQ2AIMAAAQ=</HashCode>
+      <FileName>FrmTallyClerk_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyClerk_Query" Collapsed="true">
+    <Position X="38.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkhhQAhMCMgoAAQAAKAAACCAAD3MASgEAQ2AIMAAAQ=</HashCode>
+      <FileName>FrmTallyClerk_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyType" Collapsed="true">
+    <Position X="5.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTallyType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyType_Add" Collapsed="true">
+    <Position X="7" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAAACAAAASABAAAQIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmTallyType_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyType_Delete" Collapsed="true">
+    <Position X="8.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAAACCAAACABAAQQIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmTallyType_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyType_Edit" Collapsed="true">
+    <Position X="10.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAAACCAAACABAAQQIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmTallyType_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTallyType_Query" Collapsed="true">
+    <Position X="12.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAAACAAAACABAAAQIAEAQCAgAAAAA=</HashCode>
+      <FileName>FrmTallyType_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCargo" Collapsed="true">
+    <Position X="14" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBAgQALAACAgEAgggAiXGQCaBy0AFGAAAhiD0AgCACQ=</HashCode>
+      <FileName>FrmTransferYardCargo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCargo_Add" Collapsed="true">
+    <Position X="15.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoIICFAMCAAAAEkAEDRAACSECEQAAgYUIQCIAQAAAA=</HashCode>
+      <FileName>FrmTransferYardCargo_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCargo_Delete" Collapsed="true">
+    <Position X="17.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAoIACFBMCAAEAEkAACQAACCECEQAAAIUIQCIAQAAQQ=</HashCode>
+      <FileName>FrmTransferYardCargo_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCargo_Edit" Collapsed="true">
+    <Position X="19.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoIACFBMCAAAAEkAACRIACCECEQAAAIUIQCIAQAAQQ=</HashCode>
+      <FileName>FrmTransferYardCargo_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCargo_Query" Collapsed="true">
+    <Position X="21" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACFAMCAAAAEkAACQAACCECGQAAAIUIQCIAQAAAA=</HashCode>
+      <FileName>FrmTransferYardCargo_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCon" Collapsed="true">
+    <Position X="22.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBggQALAACAgEAgggAiXGQCaBy0AFGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTransferYardCon.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCon_Add" Collapsed="true">
+    <Position X="24.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoIISBAMCAAAAEgGECRAAASEAEwAQgQUAQCAAQBAAA=</HashCode>
+      <FileName>FrmTransferYardCon_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCon_Delete" Collapsed="true">
+    <Position X="26.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAoIASBAMCAAEAEgCACQCAACEAEwAQAAUAQCAAQAAQQ=</HashCode>
+      <FileName>FrmTransferYardCon_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCon_Edit" Collapsed="true">
+    <Position X="28" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoIASBBMCAAIAEgCACRAAACEAEwAQgAUAQCAAwAAQQ=</HashCode>
+      <FileName>FrmTransferYardCon_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTransferYardCon_Query" Collapsed="true">
+    <Position X="29.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIASBAMCAAEAEgCACQAAACEAEwAQAAUAQCAAQAAAA=</HashCode>
+      <FileName>FrmTransferYardCon_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTray" Collapsed="true">
+    <Position X="31.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQCLBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTray.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTypeShipRelation" Collapsed="true">
+    <Position X="33.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmTypeShipRelation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTypeShipRelation_Add" Collapsed="true">
+    <Position X="35" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIICABsCAAAAAAAACACIASAAAAAQIAEAQCAAAAAAA=</HashCode>
+      <FileName>FrmTypeShipRelation_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTypeShipRelation_Delete" Collapsed="true">
+    <Position X="36.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACACIACAAAAAQIAEAQCAAAAAAA=</HashCode>
+      <FileName>FrmTypeShipRelation_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTypeShipRelation_Edit" Collapsed="true">
+    <Position X="38.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIACABsCAAAAAAAACACIACAAAAAQIAEAQCAAAAAAA=</HashCode>
+      <FileName>FrmTypeShipRelation_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmTypeShipRelation_Query" Collapsed="true">
+    <Position X="5.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABsCAAAAAAAACACIACAAAAAQIAEAQCAAAAAAA=</HashCode>
+      <FileName>FrmTypeShipRelation_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUpload" Collapsed="true">
+    <Position X="7" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAADoiAEAQcAAAAABAAABAAEA=</HashCode>
+      <FileName>FrmUpload.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUser" Collapsed="true">
+    <Position X="8.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAggwACXGQCaBy0AFEAAAhiDwBgCACQ=</HashCode>
+      <FileName>FrmUser.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUser_Add" Collapsed="true">
+    <Position X="10.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAQECAAAAAAQACAAAMDJAAAAAIBgAAiSAAAAAg=</HashCode>
+      <FileName>FrmUser_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUser_Del" Collapsed="true">
+    <Position X="12.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAACAQECAAAAAAQACACAIDBAAAAAIBgAAiCAAAAAg=</HashCode>
+      <FileName>FrmUser_Del.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUser_Edit" Collapsed="true">
+    <Position X="14" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAACAQECAAAAAAQACACAIDBAAAAAIBgAAiCAAAAAg=</HashCode>
+      <FileName>FrmUser_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmUserPass" Collapsed="true">
+    <Position X="15.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAEAAwECAAAAAAAACUAAIKAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>FrmUserPass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmVessel_Papers" Collapsed="true">
+    <Position X="17.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALAACAgEAiggAiXGQCaBy0AFGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmVessel_Papers.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmVessel_Papers_Add" Collapsed="true">
+    <Position X="19.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAhAiiQAMyEAAgIlggCAwBtCRDj/oJFMEMRCiEIHB04=</HashCode>
+      <FileName>FrmVessel_Papers_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmVessel_Papers_Delete" Collapsed="true">
+    <Position X="21" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAiKQAMiBAIgIkCgGAwApCRDj/IIHEIMTCiAADB04=</HashCode>
+      <FileName>FrmVessel_Papers_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmVessel_Papers_Edit" Collapsed="true">
+    <Position X="22.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAhAiqQAMyFAEgIlggCAwAtCRDj/IJHMEMxCiAIHB04=</HashCode>
+      <FileName>FrmVessel_Papers_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmVessel_Papers_Query" Collapsed="true">
+    <Position X="24.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAiKQAMiBAAgIkAgGAwApCRDi/IIHEAMBCiAADB04=</HashCode>
+      <FileName>FrmVessel_Papers_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkBegin" Collapsed="true">
+    <Position X="26.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmWorkBegin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkBegin_Add" Collapsed="true">
+    <Position X="28" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMIICABMCAgAAAAAACAAACSAAAAAAAAEAQSAAAAABA=</HashCode>
+      <FileName>FrmWorkBegin_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkBegin_Delete" Collapsed="true">
+    <Position X="29.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACABMCAgAAAAAACCAACCAAAAQAAAEAQSAAAAABA=</HashCode>
+      <FileName>FrmWorkBegin_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkBegin_Edit" Collapsed="true">
+    <Position X="31.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACABMCAgAAAAAACCAACCAAAAQAAAEAQSAAAAABA=</HashCode>
+      <FileName>FrmWorkBegin_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkBegin_Query" Collapsed="true">
+    <Position X="33.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABMCAgAAAAAACAAACCAAAAAAAAEAQSAAAAABA=</HashCode>
+      <FileName>FrmWorkBegin_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkType" Collapsed="true">
+    <Position X="35" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAgQALBACAgEAiggAiXGQCaBy0AlGAAAhiDwAgCACQ=</HashCode>
+      <FileName>FrmWorkType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkType_Add" Collapsed="true">
+    <Position X="36.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIICABMCAAAAAAAACAAQASAAAAAQIAEAQSAAAAAAA=</HashCode>
+      <FileName>FrmWorkType_Add.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkType_Delete" Collapsed="true">
+    <Position X="38.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAAACCAQACAAAAQQIAEAQSAAAAAAA=</HashCode>
+      <FileName>FrmWorkType_Delete.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkType_Edit" Collapsed="true">
+    <Position X="5.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABMCAAAAAAAACCAQACAAAAQQIAEAQSAAAAAAA=</HashCode>
+      <FileName>FrmWorkType_Edit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWorkType_Query" Collapsed="true">
+    <Position X="7" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABMCAAAAAAAACAAQACAAAAAQIAEAQSAAAAAAA=</HashCode>
+      <FileName>FrmWorkType_Query.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWriteMail" Collapsed="true">
+    <Position X="8.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQTCABCGEiAKIAAAQEDTKIECBEhBGEgZhAQyA0QBKag=</HashCode>
+      <FileName>FrmWriteMail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWriteMailList" Collapsed="true">
+    <Position X="10.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAABCEEiAIAAAAQECSGIUCBEhBGEgJAAAiAwQBKKg=</HashCode>
+      <FileName>FrmWriteMailList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.FrmWriteMailReport" Collapsed="true">
+    <Position X="12.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CICAEBCEEmBIAAAARECACYACBEjxOEkJAAAiAwQJKYw=</HashCode>
+      <FileName>FrmWriteMailReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALLY.TallyINI" Collapsed="true">
+    <Position X="14" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAgAAECAEAAAAFACFAAICAAAAIAAAgAhAAQAAgEA=</HashCode>
+      <FileName>TallyINI.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="TALLY.TALLY_Module" Collapsed="true">
+    <Position X="7" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SgKIAkAIGMAJiAIjAgRAFASgEjQDCGRAABKBkABAkeg=</HashCode>
+      <FileName>Module.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="TALLY.My.Resources.Resources" Collapsed="true">
+    <Position X="5.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="微软雅黑" Size="10" />
+</ClassDiagram>
